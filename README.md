@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sagar Negi
 **A passionate Full Stack Web Developer from Dehradun, India**
 
-- 🔭 **I’m currently working on:** quickai-saas-app
+- 🔭 **I’m currently working on:** mern-movie-booking-app
 - 🌱 **I’m currently learning:** React.js & Express.js
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I love tech and tech loves me
