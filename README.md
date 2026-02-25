@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sagar Negi
 **A passionate Full Stack Web Developer from Dehradun, India**
 
-- 🔭 **I’m currently working on:** mern-authentication-system
+- 🔭 **I’m currently working on:** vendora-ecommerce-platform
 - 🌱 **I’m currently learning:** React.js & Express.js
 - 💬 **Ask me about:** Collaboration, Tech Support
 - ⚡ **Fun fact:** I love tech and tech loves me
@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sagar_negi_10) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sagar-negi-534410292) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sagarnegi13.0@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://sagar-negi.vercel.app) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://sagarnegi.vercel.app) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/SagarNegi10)
 
 # 💻 Tech Stack:
